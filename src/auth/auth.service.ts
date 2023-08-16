@@ -7,6 +7,6 @@ export class AuthService {
   }
 
   login() {
-    return 'login';
+    return 'login from auth.service.ts';
   }
 }
